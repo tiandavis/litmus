@@ -7,9 +7,9 @@
 ![Gmail](http://i.imgur.com/N98dLIM.png)
 
 ## S3 Keys
-https://litmus-interview.s3.amazonaws.com/201601190047455038/screenshot.png
-https://litmus-interview.s3.amazonaws.com/201601190048084498/screenshot.png
-https://litmus-interview.s3.amazonaws.com/201601190048396997/screenshot.png
+- https://litmus-interview.s3.amazonaws.com/201601190047455038/screenshot.png
+- https://litmus-interview.s3.amazonaws.com/201601190048084498/screenshot.png
+- https://litmus-interview.s3.amazonaws.com/201601190048396997/screenshot.png
 
 
 # Running Options
