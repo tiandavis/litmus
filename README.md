@@ -18,10 +18,10 @@
 
 ![Command Line 1](http://i.imgur.com/0X1Ajzq.png)
 
-Usage: Litmus.exe <Username> <Password>
-<Username> and <Password> for your Gmail account. No quotes needed around <Username> or <Password>.
+Usage: Litmus.exe `<Username>` `<Password>`
+`<Username>` and `<Password>` for your Gmail account. No quotes needed around `<Username>` or `<Password>`.
 
-Grab your credentials and run .\Litmus.exe <Username> <Password>.
+Grab your credentials and run .\Litmus.exe `<Username>` `<Password>`.
 
 ## Command Line (Without Arguments)
 
@@ -30,10 +30,10 @@ Grab your credentials and run .\Litmus.exe <Username> <Password>.
 To enter your Gmail credentials directly, run Litmus.exe without command line arguments.
 
 Enter Gmail Username:
-<Username>
+`<Username>`
 
 Enter Gmail Password:
-<Password>
+`<Password>`
 
 
 # Unit Test Suite
