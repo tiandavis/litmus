@@ -1,6 +1,16 @@
 # Automated Gmail Screenshot Processing
 ## With automated upload to Amazon S3 and recording in Screenshots table using Dapper
 
+![Gmail](http://i.imgur.com/SPpCF9V.png)
+
+## Screenshots Table
+![Gmail](http://i.imgur.com/N98dLIM.png)
+
+## S3 Keys
+https://litmus-interview.s3.amazonaws.com/201601190047455038/screenshot.png
+https://litmus-interview.s3.amazonaws.com/201601190048084498/screenshot.png
+https://litmus-interview.s3.amazonaws.com/201601190048396997/screenshot.png
+
 
 # Running Options
 
